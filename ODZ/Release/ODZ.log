@@ -1,0 +1,13 @@
+﻿Построение начато 30.11.2019 19:36:45.
+     1>Проект "C:\Users\colib\OneDrive\Робочий стіл\Курс4_1\Комп_графика\LB\OPenGL\OPenGL\ODZ\ODZ\ODZ\ODZ.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Release\ODZ.unsuccessfulbuild".
+       ClCompile:
+         D:\VS2010\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt vmainf.cpp
+         vmainf.cpp
+     1>vmainf.cpp(5): fatal error C1083: Не удается открыть файл включение: GL/glut.h: No such file or directory
+     1>Построение проекта "C:\Users\colib\OneDrive\Робочий стіл\Курс4_1\Комп_графика\LB\OPenGL\OPenGL\ODZ\ODZ\ODZ\ODZ.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:05.38
